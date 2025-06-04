@@ -1,5 +1,12 @@
 [
     {
+        "id": "obsidian-statistics",
+        "name": "Chart statistical tools",
+        "author": "jiuxue",
+        "description": "Create Chart Statistical.",
+        "repo": "liberliushahe/obsidian-statistics"
+    },
+    {
         "id": "nldates-obsidian",
         "name": "Natural Language Dates",
         "author": "Argentina Ortega Sainz",
